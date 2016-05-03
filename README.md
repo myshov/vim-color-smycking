@@ -26,3 +26,4 @@ The theme heavily influenced by smyck: [https://github.com/hukl/Smyck-Color-Sche
 - OR use [neobundle](https://github.com/Shougo/neobundle.vim), adding this line to your `~/.vimrc`:
 
         NeoBundle 'myshov/vim-color-smycking'
+        hey
